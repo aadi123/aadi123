@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aadi123
 - 👀 I’m interested in Robotics, Machine Learning, and Security
-- 🌱 I’m currently learning Machine Learning
+- 🌱 I’m currently learning about machine learning
 - 📫 You can reach me on twitter @aaditya_murthy
 
 <!---
