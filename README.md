@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aadi123
-- 💡 I’m currently learning about Operating Systems and Large-Scale Systems
+- 💡 I’m currently learning about the Rust programming language and Generative AI
 - 📫 You can reach me on twitter @aaditya_murthy
 
 <!---
