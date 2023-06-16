@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @aadi123
 - 💡 I’m currently learning about the Rust programming language and Generative AI
+- ♟🎵 I like to play chess and sing for fun
 - 📫 You can reach me on twitter @aaditya_murthy
 
 <!---
